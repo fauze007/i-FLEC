@@ -1,0 +1,6 @@
+{
+  "name": "i-FLEC",
+  "description": "Learn financial literacy and English conversation simultaneously with Malaysian context using an AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
