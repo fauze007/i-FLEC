@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Speech Bubble shadow -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M56,26 C40.5,26 28,36.5 28,49.5 C28,56.5 32.5,62.8 39.5,66.8 L36,78 L48.5,73.5 C50.9,74.5 53.4,75 56,75 C71.5,75 84,64.5 84,51.5 C84,38.5 71.5,26 56,26 Z" />
+
+    <!-- Main Pure White Speech Bubble Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C38.5,24 26,34.5 26,47.5 C26,54.5 30.5,60.8 37.5,64.8 L34,76 L46.5,71.5 C48.9,72.5 51.4,73 54,73 C69.5,73 82,62.5 82,49.5 C82,36.5 69.5,24 54,24 Z" />
+
+    <!-- Gold Center Ring representing wealth/Ringgit progress -->
+    <path
+        android:fillColor="#FFC000"
+        android:pathData="M54,34 A14,14 0 1 0 54,62 A14,14 0 1 0 54,34" />
+
+    <!-- inner white core of gold ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 A10,10 0 1 0 54,58 A10,10 0 1 0 54,38" />
+
+    <!-- RM Symbol in the center (combining letter points for R and M) -->
+    <!-- Draw R -->
+    <path
+        android:fillColor="#2D3142"
+        android:pathData="M46,43 L50,43 C51.5,43 52.5,43.5 52.5,45 C52.5,46.2 51.5,47 50,47 L48,47 L48,53 L46,53 Z M46,41 L46,53 C46,53.5 46.5,54 47,54 C47.5,54 48,53.5 48,53 L48,49 L50,49 L52.5,53.5 C52.8,54 53.5,54.2 54,53.8 C54.5,53.5 54.5,52.8 54.2,52.4 L51.5,48 C52.8,47.5 53.5,46.5 53.5,45 C53.5,42.5 51.5,41 49,41 L46,41 Z" />
+        
+    <!-- Draw M -->
+    <path
+        android:fillColor="#4ECDC4"
+        android:pathData="M56,41 L57,41 L59,48 L61,41 L62,41 L62,53 C62,53.5 62.5,54 63,54 C63.5,54 64,53.5 64,53 L64,43 L61.5,50 C61.2,50.5 60.8,50.5 60.5,50 L58,43 L58,53 C58,53.5 57.5,54 57,54 C56.5,54 56,53.5 56,53 Z" />
+
+</vector>
